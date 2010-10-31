@@ -1,3 +1,10 @@
+# New ports collection makefile for:   daemon_controller
+# Date created:        31 October 2010
+# Whom:                Jacob Atzen <jatzen@gmail.com>
+#
+# $FreeBSD$
+#
+
 PORTNAME=	daemon_controller
 PORTVERSION=	0.2.5
 CATEGORIES=	devel rubygems
